@@ -1,0 +1,44 @@
+{
+  "tickets": [
+    {
+      "id": "07d6",
+      "title": "Job Kurian Concert",
+      "category": "Cultural",
+      "price": "1500",
+      "availablecount": "290",
+      "status": "Active"
+    },
+    {
+      "id": "ddfb",
+      "title": "Augmented Reality Workshop",
+      "category": "Workshop",
+      "price": "300",
+      "availablecount": "50",
+      "status": "Active"
+    },
+    {
+      "id": "4966",
+      "title": "Diva - Dance Competition",
+      "category": "Cultural",
+      "price": "200",
+      "availablecount": "25",
+      "status": "Inactive"
+    },
+    {
+      "id": "3355",
+      "title": "Masala Coffee ",
+      "category": "Cultural",
+      "price": "1999",
+      "availablecount": "500",
+      "status": "Active"
+    },
+    {
+      "id": "5fe4",
+      "title": "RoboWar",
+      "category": "Technical",
+      "price": "500",
+      "availablecount": "20",
+      "status": "Active"
+    }
+  ]
+}
